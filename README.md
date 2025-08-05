@@ -230,12 +230,10 @@ Want to contribute?
 * Python open-source community
 * Google Colab
 
-## 📞 Contact
+### 🌟 Connect with Me
 
-**Your Name**
-[atharvakodgule17@gmail.com](mailto:atharvakodgule17@gmail.com)
-[GitHub Repo](https://github.com/atharvakodgule/iris-data-exploration)
-[LinkedIn](https://linkedin.com/in/atharva-kodgule)
-
-
+**Atharva Kodgule**  
+📧 [atharvakodgule17@gmail.com]  
+🔗 [LinkedIn](https://linkedin.com/in/atharva-kodgule)  
+📦 [GitHub](https://github.com/atharvakodgule)
 
